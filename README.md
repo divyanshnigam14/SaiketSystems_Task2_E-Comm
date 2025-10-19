@@ -1,4 +1,4 @@
-E-commerce Website | Task 1 - Web Development Internship at SaiketSystems
+E-commerce Website | Task 2- Web Development Internship at SaiketSystems
 Description
 
 This is a responsive E-commerce website built using HTML, CSS, and JavaScript as part of Task 1 for my Web Development Internship at SaiketSystems. The project demonstrates fundamental web development skills, including layout design, interactive elements, and basic client-side functionality.
